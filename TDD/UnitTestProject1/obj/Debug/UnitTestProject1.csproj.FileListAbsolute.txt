@@ -1,0 +1,7 @@
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\bin\Debug\Prueba.dll
+C:\MaedWeb\UnitTest\TDD\UnitTestProject1\bin\Debug\Prueba.pdb

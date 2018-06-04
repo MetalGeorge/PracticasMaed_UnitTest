@@ -1,0 +1,6 @@
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\bin\Debug\TDDSAmpleUnitTest.exe.config
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\bin\Debug\TDDSAmpleUnitTest.exe
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\bin\Debug\TDDSAmpleUnitTest.pdb
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\obj\Debug\TDDSAmpleUnitTest.csprojResolveAssemblyReference.cache
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\obj\Debug\TDDSAmpleUnitTest.exe
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\obj\Debug\TDDSAmpleUnitTest.pdb

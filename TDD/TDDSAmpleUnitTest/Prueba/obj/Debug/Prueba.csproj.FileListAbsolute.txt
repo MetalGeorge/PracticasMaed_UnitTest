@@ -1,0 +1,5 @@
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\Prueba\bin\Debug\Prueba.dll
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\Prueba\bin\Debug\Prueba.pdb
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\Prueba\obj\Debug\Prueba.dll
+C:\MaedWeb\UnitTest\TDD\TDDSAmpleUnitTest\Prueba\obj\Debug\Prueba.pdb
