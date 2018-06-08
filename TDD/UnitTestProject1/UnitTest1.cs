@@ -7,7 +7,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void ObtenerPersistencia_UnDigito_Cero()
+        public void ObtenerPersistencia_2_0()
         {
             long numeroPrueba = 2;
             int esperado = 0;
@@ -18,7 +18,40 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_DosDigitos_Uno()
+        public void ObtenerPersistencia_39_3()
+        {
+            long numeroPrueba = 39;
+            int esperado = 3;
+            var persistencia = new Prueba.CalculaPersistencia();
+            var resultado = persistencia.Calcula(numeroPrueba);
+
+            Assert.AreEqual(resultado, esperado);
+        }
+
+        [TestMethod]
+        public void ObtenerPersistencia_59_3()
+        {
+            long numeroPrueba = 59;
+            int esperado = 3;
+            var persistencia = new Prueba.CalculaPersistencia();
+            var resultado = persistencia.Calcula(numeroPrueba);
+
+            Assert.AreEqual(resultado, esperado);
+        }
+
+        [TestMethod]
+        public void ObtenerPersistencia_88_3()
+        {
+            long numeroPrueba = 88;
+            int esperado = 3;
+            var persistencia = new Prueba.CalculaPersistencia();
+            var resultado = persistencia.Calcula(numeroPrueba);
+
+            Assert.AreEqual(resultado, esperado);
+        }
+
+        [TestMethod]
+        public void ObtenerPersistencia_23_1()
         {
             long numeroPrueba = 23;
             int esperado = 1;
@@ -29,10 +62,10 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_TresDigitos_Uno()
+        public void ObtenerPersistencia_123_1()
         {
             long numeroPrueba = 123;
-            int esperado = 2;
+            int esperado = 1;
             var persistencia = new Prueba.CalculaPersistencia();
             var resultado = persistencia.Calcula(numeroPrueba);
 
@@ -40,7 +73,7 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_TresDigitos_Dos()
+        public void ObtenerPersistencia_1234_2()
         {
             long numeroPrueba = 1234;
             int esperado = 2;
@@ -51,7 +84,7 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_CincoDigitos12345_Dos()
+        public void ObtenerPersistencia_12345_2()
         {
             long numeroPrueba = 12345;
             int esperado = 2;
@@ -62,7 +95,7 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_CincoDigitos99999_Dos()
+        public void ObtenerPersistencia_99999_2()
         {
             long numeroPrueba = 99999;
             int esperado = 2;
@@ -73,7 +106,7 @@ namespace UnitTestProject1
         }
 
         [TestMethod]
-        public void ObtenerPersistencia_CincoDigitos77777_Dos()
+        public void ObtenerPersistencia_77777_Dos()
         {
             long numeroPrueba = 77777;
             int esperado = 2;
